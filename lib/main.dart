@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Container(
             width: double.infinity,
             padding:
-                const EdgeInsets.symmetric(vertical: 10.0, horizontal: 10.0),
+                const EdgeInsets.symmetric(vertical: 15.0, horizontal: 10.0),
             child: Column(children: [
               SizedBox(
                 height: size.height * 0.03,
